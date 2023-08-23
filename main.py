@@ -1,7 +1,6 @@
 #importação de bibliotecas
 from tkinter import *
 import ttkbootstrap as ttb
-from PIL import Image,ImageTk
 from ttkbootstrap.dialogs.dialogs import Messagebox
 from math import sqrt
 
